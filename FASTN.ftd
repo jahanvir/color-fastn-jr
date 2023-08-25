@@ -1,6 +1,7 @@
 -- import: fastn
 
 -- fastn.package: jahanvir.github.io/color-fastn-jr
+download-base-url: https://raw.githubusercontent.com/jahanvir/color-fastn-jr/main
 
 -- fastn.dependency: fastn-community.github.io/code-block
 -- fastn.dependency: fastn-community.github.io/dark-mode-switcher
