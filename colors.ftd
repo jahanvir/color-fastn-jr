@@ -1,15 +1,15 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: #faebd7
-dark: #240002
+light: #d9d2e9
+dark:  #004c4c
 
 -- ftd.color step-1-:
 light: #e3bc81
-dark: #550605
+dark: #006666
 
 -- ftd.color step-2-:
 light: #faad7b
-dark: #3e0e11
+dark: #008080
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
